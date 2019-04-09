@@ -24,3 +24,8 @@ The last few files all have buffer overflows which cause misbehaviour.
 * `buffer2`
 * `container`
 * `safetycheck`
+
+`morse` has three objectives:
+* Find the hidden option
+* Find the leaked information in `cake.wav`
+* Generate another valid license
